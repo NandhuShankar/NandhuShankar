@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NandhuShankar
-- I'm a sophmore at the University ofSouth Florida studying computer engineering
+- I'm a sophmore at the University of South Florida studying computer engineering
 - 🌱 I’m currently learning Web development and python
 - 📫 Contact me here => shankarkarkala@usf.edu
 
